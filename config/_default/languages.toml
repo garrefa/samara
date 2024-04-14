@@ -1,0 +1,6 @@
+################ English language ##################
+[pt]
+languageName = "pt"
+languageCode = "pt-BR"
+contentDir = "content/portuguese"
+weight = 1

@@ -1,0 +1,22 @@
+############# Portuguese navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Bullying"
+pageRef = "/bullying"
+weight = 2
+
+[[main]]
+name = "Livros"
+pageRef = "/livros"
+weight = 3
+
+[[main]]
+name = "Entrevistas"
+pageRef = "/entrevistas"
+weight = 4

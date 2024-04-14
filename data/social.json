@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/educ.aacao/"
+    },
+    {
+      "name": "tiktok",
+      "icon": "fab fa-tiktok",
+      "link": "https://www.tiktok.com/@msamaraazevedo"
+    },
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@mariasamaraazevedo1451"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/maria-s%C3%A2mara-de-jesus-azevedo-52418264"
+    }
+  ]
+}
