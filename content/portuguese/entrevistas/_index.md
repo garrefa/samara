@@ -6,6 +6,17 @@ image: "/images/samy-entrevistas.jpg"
 draft: false
 ---
 
+Maria Sâmara Azevedo aborda um dos temas mais urgentes e impactantes da atualidade: o bullying ao longo de mais de uma década.
+
+
+Desde os sinais de alerta que indicam sua ocorrência até as consequências profundas que podem reverberar ao longo da vida, Sâmara se empenhou em trazer informações valiosas e perspectivas variadas para enriquecer o debate.
+
+
+À medida que exploramos artigos, vídeos e recursos sobre o tema, é essencial refletirmos sobre como podemos agir individual e coletivamente para combater o bullying e promover ambientes mais seguros e acolhedores em nossas escolas. Pais, educadores, profissionais da saúde e, especialmente, os próprios jovens, encontram aqui um espaço para aprender, compartilhar experiências e buscar soluções eficazes.
+
+
+Junte-se a ela nessa missão de criar um mundo onde o respeito, a empatia e a inclusão sejam os pilares fundamentais, e onde cada criança e adolescente possa florescer livre de qualquer forma de violência e discriminação.
+
 [Edição 00 - Violência Escolar - mai/jun 2023](https://parepense.com.br/sinais-pior-poderia-acontecer/)
 
 “Havia muitos sinais de que o pior poderia acontecer”

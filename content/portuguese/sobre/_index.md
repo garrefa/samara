@@ -1,12 +1,12 @@
 ---
 title: "Maria Sâmara Azevedo"
-meta_title: "Sobre"
+meta_title: "Maria Sâmara Azevedo"
 description: "this is meta description"
 image: "/images/samy-sobre.jpg"
 draft: false
 ---
 
-Jornalista renomada, escritora, palestrante e neuroeducadora.
+Jornalista, escritora, palestrante e neuroeducadora.
 
 Seu livro-reportagem, [Violência na Escola: O desafio de enfrentar o bullying e reconstruir a paz](#link), traz coberturas dos primeiros massacres brasileiros, enquanto [A arte de viver: superando o bullying](#link) foi premiado em 2023 trazendo a prevenção.
 
@@ -14,4 +14,4 @@ Com uma vasta experiência em veículos de comunicação e como roteirista, Mari
 
 Além disso, seu trabalho na ABCF (Associação Brasileira Criança Feliz) e como Abordadora Técnica a Tentativas de Suicídio pelo Corpo de Bombeiros do Estado de São Paulo, demonstra seu compromisso com a conscientização e prevenção do tema.
 
-Junte-se a ela e faça parte da mudança!
+Junte-se a ela e faça parte da mudança! Entre em contato para saber mais.

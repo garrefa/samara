@@ -8,15 +8,15 @@ draft: false
 
 ### O que é?
 
-A partir do estudo feito por Olweus é possível ter critérios para diferenciar o bullying de simples brincadeiras. O bullying pode ser definido como atos de agressão física, verbal, moral ou psicológica que ocorrem de modo repetitivo, sem motivação evidente, praticado por uma ou várias pessoas. Não existe uma tradução exata para a palavra, mas podemos resumir em agressões ou simplesmente assédio moral.
+A partir do estudo feito por Olweus é possível ter critérios para diferenciar o bullying de simples brincadeiras. O bullying pode ser definido como atos de agressão física, verbal, sexual, moral ou psicológica que ocorrem de modo repetitivo, sem motivação evidente, praticado por uma ou várias pessoas. Não existe uma tradução exata para a palavra, mas podemos resumir em agressões ou simplesmente assédio.
 
 ### Tipos de bullying
 
-- Verbal: Através de xingamentos ou observações maldosas constantes;
-- Fisico: Bater, empurrar;
-- Relações interpessoais: Exclusão social, espalhando mentiras ou boatos;
+- Verbal: Através de xingamentos ou observações maldosas constantes.
+- Fisico: Bater, empurrar.
+- Relações interpessoais: Exclusão social, espalhando mentiras ou boatos.
 - Material: Quebrando ou tomando pertences.
-- Cyberbullying: forma de bullying que ocorre online, por meio de dispositivos eletrônicos como computadores, smartphones e tablets, bem como por meio de plataformas de redes sociais, aplicativos de mensagens e e-mail. Pode envolver o envio de mensagens ameaçadoras, insultos, disseminação de boatos ou conteúdo humilhante, além de exclusão deliberada de grupos online. O ciberbullying pode ter impactos emocionais graves nas vítimas e pode ocorrer tanto de forma anônima quanto identificável.
+- Cyberbullying: forma de bullying que ocorre online, por meio de dispositivos eletrônicos como computadores, smartphones e tablets, bem como por meio de plataformas de redes sociais, aplicativos de mensagens e e-mail. Pode envolver o envio de mensagens ameaçadoras, insultos, disseminação de boatos ou conteúdo humilhante, além de exclusão deliberada de grupos online. O cyberbullying pode ter impactos emocionais graves nas vítimas e pode ocorrer tanto de forma anônima quanto identificável.
 
 ### Os envolvidos
 
@@ -27,11 +27,18 @@ A partir do estudo feito por Olweus é possível ter critérios para diferenciar
 
 ### Principais casos de bullying no Brasil que viraram massacres
 
-- Taiúva (2003):
-  Edmar feriu seis alunos, um zelador, a vice -diretora e depois se matou.
-- Realengo (2011):
-  Wellington fez 12 vítimas, vários feridos e depois se matou.
-- Suzano (2019):Guilherme Taucci Monteiro e Luiz Henrique de Castro mataram cinco estudantes, duas funcionárias da escola e um parente. O total foram 10 vítimas.
+#### Taiúva (2003)
+
+Edmar feriu seis alunos, um zelador, a vice-diretora e depois se matou.
+
+
+#### Realengo (2011)
+
+Wellington fez 12 vítimas, vários feridos e depois se matou.
+
+#### Suzano (2019)
+
+Guilherme Taucci Monteiro e Luiz Henrique de Castro mataram cinco estudantes, duas funcionárias da escola e um parente. O total foram 10 vítimas.
 
 ### Prevenção
 
