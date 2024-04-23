@@ -17,6 +17,8 @@ Desde os sinais de alerta que indicam sua ocorrência até as consequências pro
 
 Junte-se a ela nessa missão de criar um mundo onde o respeito, a empatia e a inclusão sejam os pilares fundamentais, e onde cada criança e adolescente possa florescer livre de qualquer forma de violência e discriminação.
 
+---
+
 [Edição 00 - Violência Escolar - mai/jun 2023](https://parepense.com.br/sinais-pior-poderia-acontecer/)
 
 “Havia muitos sinais de que o pior poderia acontecer”
