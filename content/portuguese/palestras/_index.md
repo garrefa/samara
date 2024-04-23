@@ -17,13 +17,13 @@ Através de sua abordagem cativante e habilidade de conectar-se genuinamente com
 
 Ao longo de sua jornada, tem se destacado como uma voz visionária e uma defensora incansável dos direitos humanos, saúde mental e bem-estar de crianças e adolescentes, deixando um legado de esperança e mudança por onde passa. Prepare-se para ser inspirado, desafiado e capacitado pela presença marcante e pela mensagem poderosa de Maria Sâmara, uma verdadeira líder na luta contra o bullying.
 
-![Imagem01](./images/samy-palestras-01.jpeg
+![Imagem01](/images/samy-palestras-01.jpeg)
 
 
-![Imagem02](./images/samy-palestras-02.jpeg
+![Imagem02](/images/samy-palestras-02.jpeg)
 
 
-![Imagem03](./images/samy-palestras-03.jpeg
+![Imagem03](/images/samy-palestras-03.jpeg)
 
 
-![Imagem04](./images/samy-palestras-04.jpeg)
+![Imagem04](/images/samy-palestras-04.jpeg)
