@@ -2,7 +2,7 @@
 title: "Palestras"
 meta_title: "Palestras"
 description: "this is meta description"
-image: "/images/samy-palestras-01.jpg"
+image: "/images/samy-palestras.jpg"
 draft: false
 ---
 

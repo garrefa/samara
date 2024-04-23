@@ -6,7 +6,7 @@ image: "/images/samy-sobre.jpg"
 draft: false
 ---
 
-Jornalista renomada, escritora, palestrante e neuroeducadora.
+Jornalista, escritora, palestrante e neuroeducadora.
 
 Seu livro-reportagem, [Violência na Escola: O desafio de enfrentar o bullying e reconstruir a paz](/samara/livros), traz coberturas dos primeiros massacres brasileiros, enquanto [A arte de viver: superando o bullying](/samara/livros) foi premiado em 2023 trazendo a prevenção.
 
