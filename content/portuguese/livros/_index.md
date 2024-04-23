@@ -26,7 +26,7 @@ A obra lembra, também, um acontecimento semelhante, que abalou Taiúva, pequeno
 
 Você já passou por bullying? Se não, algum processo de rejeição, com toda certeza. Seja em uma entrevista de emprego, relacionamento amoroso, na família ou em muitas outras situações. E se você entendesse que ser rejeitado não é o fim do mundo? É o que irá explicar a jornalista e neuroeducadora que lidou e ainda lida com o tema do bullying. Ainda na faculdade, a autora cobriu os maiores massacres do país. Foi então que ela estudou a fundo o fenômeno bullying e traz neste livro métodos eficientes para ajudar alunos, professores, pais e mães. Ela explica o assunto a partir de suas experiências vividas e também de outras pessoas, mostrando que existe como mudar a experiência com o bullying e a rejeição. Seja na escola, no trabalho ou na família, o bullying pode dar espaço ao amor e aos valores humanos. Este livro não é apenas para quem sofreu com o bullying, mas também para que você entenda como viver melhor, ajudar as pessoas ao seu redor e a entender o significado da vida. Boa leitura!
 
-[![](https://www.youtube.com/watch?v=nSgeq8XkijI&ab_channel=MariaS%C3%A2maraAzevedo)](https://www.youtube.com/watch?v=nSgeq8XkijI&ab_channel=MariaS%C3%A2maraAzevedo)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/nSgeq8XkijI)](https://www.youtube.com/watch?v=nSgeq8XkijI)
 
 impresso: 
 [Amazon](https://www.amazon.com.br/arte-viver-Superando-Bullying/dp/6554281347/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
