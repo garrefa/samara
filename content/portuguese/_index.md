@@ -16,4 +16,5 @@ Além disso, seu trabalho na ABCF (Associação Brasileira Criança Feliz) e com
 
 Junte-se a ela e faça parte da mudança!
 
-[Contato](mailto:educ.aacaovaloreshumanos@gmail.com)
+[educ.aacaovaloreshumanos@gmail.com](mailto:educ.aacaovaloreshumanos@gmail.com)
+ 
