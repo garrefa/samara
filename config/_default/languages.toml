@@ -1,6 +1,6 @@
 ################ English language ##################
 [pt]
-languageName = "pt"
+languageName = "Portuguese"
 languageCode = "pt-BR"
 contentDir = "content/portuguese"
 weight = 1
